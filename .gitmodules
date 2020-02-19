@@ -4,3 +4,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = git@github.com:Ecclesiology/rock-paper-scissors.git
+[submodule "google-hompage-project"]
+	path = google-hompage-project
+	url = git@github.com:Ecclesiology/google-homepage.git
