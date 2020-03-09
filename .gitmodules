@@ -7,3 +7,6 @@
 [submodule "google-hompage-project"]
 	path = google-hompage-project
 	url = git@github.com:Ecclesiology/google-homepage.git
+[submodule "javaScript-tests-odin"]
+	path = javaScript-tests-odin
+	url = git@github.com:Ecclesiology/javaScript-tests-odin.git
