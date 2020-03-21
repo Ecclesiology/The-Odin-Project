@@ -10,3 +10,6 @@
 [submodule "javaScript-tests-odin"]
 	path = javaScript-tests-odin
 	url = git@github.com:Ecclesiology/javaScript-tests-odin.git
+[submodule "DOM-Experiment"]
+	path = DOM-Experiment
+	url = git@github.com:Ecclesiology/DOM-Experiment.git
